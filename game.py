@@ -1,20 +1,6 @@
 # @Author: indoctrinatedrecluse
 # @Date:   2023-05-26 00:00:00
 
-
-# The idea here is to make a collision game where there is a ball and the player will
-# have a paddle to hit the ball. The ball will bounce off the paddle and the walls.
-# The player will have to move the paddle to hit the ball and prevent it from hitting
-# the bottom of the screen. If the ball hits the bottom of the screen, the game is over.
-# The player will have 3 lives to play the game. If the player loses all 3 lives, the
-# game is over. The player will have to press the space bar to start the game. The
-# player will have to press the space bar to restart the game after the game is over.
-# The player will have to press the space bar to pause the game. The player will have
-# to press the space bar to resume the game. The player will have to press the escape
-# key to quit the game. The player will have to press the left and right arrow keys to
-# move the paddle left and right. The player will have to press the up and down arrow
-# keys to move the paddle up and down.
-
 # The game will be made using the pygame module.
 
 # Import the pygame and math modules.

@@ -1,4 +1,5 @@
 # This is a simple bash script to run the game.
+# Run this with bash or cygwin.
 
 # Make commands run verbose.
 set -x
